@@ -1,3 +1,3 @@
 TestR
 =====
-Test text #2
+This is a test RStudio project
